@@ -4,8 +4,6 @@ This project designs a smart IoT-based terrarium system for monitoring and contr
 
 The system integrates a **Digital Twin** in simulation to visualize and analyze the habitat in real time. A comprehensive dashboard enables remote monitoring, control, and alert management as if it were a real deployed product.
 
-![Terrarium Dashboard](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
 ## 🌟 Key Features
 
 * **Real-time Monitoring:** Monitor temperature, humidity, and light conditions in real time.
@@ -43,5 +41,4 @@ The system integrates a **Digital Twin** in simulation to visualize and analyze 
    * Navigate to `/dashboard`
    * Run `npm install` followed by `npm run dev`
 
----
-*Developed as an advanced Cyber-Physical System (CPS) and IoT engineering project.*
+
